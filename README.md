@@ -24,9 +24,7 @@ An AI-based virtual wardrobe assistant that helps users manage their clothes and
 2. The system classifies and organizes them into categories.
 3. Based on current weather and past choices, it recommends complete outfits.
 
-## 📷 Screenshots
 
-(Add screenshots here if available)
 
 ## 🚀 Getting Started
 
